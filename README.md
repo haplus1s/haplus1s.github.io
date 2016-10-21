@@ -13,7 +13,7 @@ You can contribute to this repository by doing the following 3 tiny deeds.
 * Protect this site by protecting yourself
 
 ## NOTICES
-* No violent-mo are allowed here.
+* No violent-mo(es) are allowed here.
 
 ## Thanks
 * [Jekyll](https://jekyllrb.com/)
