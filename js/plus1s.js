@@ -15,7 +15,7 @@ function extend(event) {
     "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAALCAMAAACj4OZyAAAAXVBMVEUAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAHHvfOAAAAHnRSTlMA9uD83ZruPemHWjQX1NLCsoJoYCUNBPfFrKd2HxFL21rZAAAAa0lEQVQY023PiQqAIAwGYHVmdp/avfd/zMzAIxsI7mOMf8RVz3nnu8BHyiKoZPF+Pp5jFrpqhRBT6mN7XjsjAIAIUDo/Mm2H6IJAqfea4Vr97Cd6klCkXivzxJOTRTmbbZ4HGQZu7L0DN1Xe5zYEOudtMvoAAAAASUVORK5CYII=",
     "style": "left:" + event.pageX + "px" + ";top:" + event.pageY + "px" + ";"
   });
-  documenild(onesec);
+  document.body.appendChild(onesec);
 }
 
 function display(e) {
