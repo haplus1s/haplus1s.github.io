@@ -10,3 +10,4 @@ github_username:  haplus1s
 # Build settings
 markdown: kramdown
 permalink: pretty
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
