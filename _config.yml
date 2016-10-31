@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Wenmo articles
+tagline: A collection of some wenmo articles found online
 
 defaults:
   -
@@ -71,7 +71,7 @@ banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 
 #### index post is expanding or not 
 index:
-  expand: true           ## default is unexpanding,so you can only see the short description of each post.
+  expand: false           ## default is unexpanding,so you can only see the short description of each post.
   excerpt_link: Read More  
 
 close_aside: false  #close sidebar in post page if true
@@ -79,7 +79,7 @@ mathjax: false      #enable mathjax if true
 
 #### Author information
 author:
-  name: yitao      ## e.g. wuchong Author name
+  name: Elder      ## e.g. wuchong Author name
   intro_line1:  "Welcome to the Wenmo-articles"    ## your introduction on the bottom of the page
   intro_line2:  "This site... Excited!"  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
@@ -105,8 +105,9 @@ toc:
 
 #### Links
 links:
-  码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  Github_repo: https://github.com/haplus1s/haplus1s.github.io
+  Youtube: https://www.youtube.com
+  Google: http://www.google.com
 
 
 
